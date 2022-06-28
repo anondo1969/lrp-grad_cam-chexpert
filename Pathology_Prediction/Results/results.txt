@@ -1,0 +1,17 @@
+class: AUROC score
+No_Finding: 0.79
+Enlarged_Cardiomediastinum: 0.60
+Cardiomegaly: 0.80
+Lung_Opacity: 0.87
+Lung_Lesion: 0.53
+Edema: 0.87
+Consolidation: 0.51
+Pneumonia: 0.50
+Atelectasis: 0.53
+Pneumothorax: 0.68
+Pleural_Effusion: 0.91
+Pleural_Other: 1.00
+Fracture: nan
+Support_Devices: 0.89
+weighted average AUROC: 0.76 
+weighted average AUPRC: 0.65
