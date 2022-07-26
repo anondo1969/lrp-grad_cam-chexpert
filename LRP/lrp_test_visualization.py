@@ -114,7 +114,7 @@ def main():
     
     np_names = np.array(class_names)
     
-    lrp_methods = ["lrp.alpha_2_beta_1", "lrp.z", "lrp.epsilon", "lrp.alpha_2_beta_1", "deep_taylor"]
+    lrp_methods = ["lrp.z", "lrp.epsilon", "lrp.alpha_2_beta_1", "deep_taylor"]
             
     # Strip softmax layer
     #model = innvestigate.utils.model_wo_softmax(model)
