@@ -1,8 +1,8 @@
 # lrp-grad_cam-chexpert
 
-Repository for the ['best student paper award'](https://2022.cbms-conference.org/awards/) winning paper at the [35th IEEE 35th International Symposium on Computer Based Medical Systems (CBMS 2022)](https://2022.cbms-conference.org/),
+Repository for the **['best student paper award'](https://2022.cbms-conference.org/awards/)** winning paper at the [IEEE 35th International Symposium on Computer Based Medical Systems (CBMS 2022)](https://2022.cbms-conference.org/),
 
-**Exploring LRP and Grad-CAM visualization to interpret multi-label-multi-class pathology prediction using chest radiography**, Mahbub Ul Alam, Jón Rúnar Baldvinsson and Yuxia Wang.
+**[Exploring LRP and Grad-CAM visualization to interpret multi-label-multi-class pathology prediction using chest radiography](https://doi.org/10.1109/CBMS55023.2022.00052)**, Mahbub Ul Alam, Jón Rúnar Baldvinsson and Yuxia Wang. IEEE 35th International Symposium on Computer-Based Medical Systems (CBMS), 2022, pp. 258-263, https://doi.org/10.1109/CBMS55023.2022.00052. (**[presentation slides](http://mahbub.blogs.dsv.su.se/files/2022/07/presentation_slides.pdf)**, **[presentation video](http://mahbub.blogs.dsv.su.se/files/2022/07/presentation_video_extended.mp4)**)
 
 ## Abstract
 
@@ -16,6 +16,20 @@ The area of interpretable deep neural networks has received increased attention 
 
 Please acknowledge the following work in papers or derivative software:
 
-Mahbub Ul Alam, Jón Rúnar Baldvinsson and Yuxia Wang, "Exploring LRP and Grad-CAM visualization to interpret multi-label-multi-class pathology prediction using chest radiography," 2022 IEEE 35th International Symposium on Computer-Based Medical Systems (CBMS), 2022
+M. U. Alam, J. R. Baldvinsson and Y. Wang, "Exploring LRP and Grad-CAM visualization to interpret multi-label-multi-class pathology prediction using chest radiography," 2022 IEEE 35th International Symposium on Computer-Based Medical Systems (CBMS), 2022, pp. 258-263, doi: 10.1109/CBMS55023.2022.00052.
 
+### Bibtex Format for Citation
+
+```
+@INPROCEEDINGS{9866967,
+  author={Alam, Mahbub Ul and Baldvinsson, Jón Rúnar and Wang, Yuxia},
+  booktitle={2022 IEEE 35th International Symposium on Computer-Based Medical Systems (CBMS)}, 
+  title={Exploring LRP and Grad-CAM visualization to interpret multi-label-multi-class pathology prediction using chest radiography}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={258-263},
+  doi={10.1109/CBMS55023.2022.00052}
+  }
+```
 
